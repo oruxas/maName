@@ -1,0 +1,49 @@
+Mobiliųjų prietaisų multimedija;
+
+Laborai, paskaitos, pratybos atskirai vertinami;
+Sugebėt padaryt appsą:
+
+padaryt 4 (vos ne 1,5) užduotis, apsigint;
+Laboratoriniai daugiau savarankiskai:
+uzduotis is uzsakovo ir pristatyt rezultata: client server comm, tarpinis serveris, Laivų mūšis ie.
+
+5 balai is testo, durni klausimai, durni atsakymai
+7 balai pratybos
+3 balai laivu musio realizacija , optional
+
+rezultatas įrenginiame. mobile.
+
+laborai:
+laivu musio app, dirbti savarankiskai, pvp.
+
+Pagrinde native apps android... galima daryt antram androidui.
+
+
+activities and fragmens - ekrano
+intents iš vieno appso iškviesti kitą appsą
+services neuždaromos, kada iš jų išeina: starting-> runing -> destroyed
+content providers duomenų saugojimas
+broadcast receiver 
+
+AKTIVIČIUS
+
+aktivity - langas;
+view - grafiniai elementai androide;
+
+DESTROOOOYYYYY
+
+LEEEROOYYY JENKINS       
+
+eclipse, android studio
+
+grafiniai elementai
+
+view group -> view
+Užkraunamas tas xml failas, kuris atitinka tą dydį.
+
+
+TMI.....will be in couple hours......................................................................................................
+
+Kalbos
+
+aaaa
